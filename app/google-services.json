@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687431088623",
+    "project_id": "mireaproject-cd790",
+    "storage_bucket": "mireaproject-cd790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687431088623:android:a0d44e2671dde302e39e1a",
+        "android_client_info": {
+          "package_name": "com.mirea.chubuka_v_a.mirea_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687431088623-ridapr26eo67rjmatai0388n0on40886.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyf4rES9sPLD3RZsO2jdwM8ypzfMYj3Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687431088623-ridapr26eo67rjmatai0388n0on40886.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
